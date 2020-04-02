@@ -1,2 +1,2 @@
 # UASPraktikumSO
-PejuangCovi19
+PejuangCovid19
